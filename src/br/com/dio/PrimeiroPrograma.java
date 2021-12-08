@@ -25,6 +25,7 @@
 // 3 - digitar a mensagem do commit, marcar todos os arquivos  e clicar em 'Commit and Push'
 // 4 - definir remote e incluir a url do repositório remoto do github
 // 5 - selecionar 'Push tags' e clicar em 'Push' e fazer o login do github, em seguida autorizar o intellij
+// 6 - fazer novamente um commit e push, pode ser feito separadamente clicando ctrl+k e depois ctrl+shift+k
 
 package br.com.dio;
 
